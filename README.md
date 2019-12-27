@@ -1,2 +1,2 @@
 # amiba
-Company-official-website
+这是阿米巴的官网

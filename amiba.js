@@ -1,1 +1,1 @@
-console.log("amiba")
+console.log("amiba2")
